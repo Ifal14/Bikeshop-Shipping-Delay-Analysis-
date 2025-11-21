@@ -10,23 +10,23 @@ Data prep results: 33 duplicates removed, 0 missing values
 
 # Key Findings & Insights
 1. Overall Shipping Performance
-Total shipments: 2,067
-Delayed shipments: 644
-Delay rate: 31.16%
-➡️ Indicates a significant operational inefficiency requiring immediate intervention.
+   Total shipments: 2,067
+   Delayed shipments: 644
+   Delay rate: 31.16%
+   ➡️ Indicates a significant operational inefficiency requiring immediate intervention.
 2. Delays by Day of Week
-Highest order volume: Sunday
-Highest delays: Monday
-➡️ There is a partial correlation between high volume and delays, but inconsistencies suggest deeper issues such as staffing or process gaps at the start of the week.
+   Highest order volume: Sunday
+   Highest delays: Monday
+   ➡️ There is a partial correlation between high volume and delays, but inconsistencies suggest deeper issues such as staffing or process gaps at the start of the week.
 3. Delays by Month
-March recorded the highest shipping volume and the highest delays.
-➡️ A clear monthly peak strain, showing the system cannot scale well during demand spikes.
+   March recorded the highest shipping volume and the highest delays.
+   ➡️ A clear monthly peak strain, showing the system cannot scale well during demand spikes.
 4. Delays by Store
-Baldwin Bikes accounts for 65% of all delays, making it the biggest bottleneck in the network.
-➡️ Suggests major internal operational or logistical issues at this store.
+   Baldwin Bikes accounts for 65% of all delays, making it the biggest bottleneck in the network.
+   ➡️ Suggests major internal operational or logistical issues at this store.
 5. Delays by Destination City
-Routes from Baldwin → Smithtown and Baldwin → Spring Valley experience the most delays.
-➡️ Fixing Baldwin’s process will have the highest impact on overall delay reduction.
+   Routes from Baldwin → Smithtown and Baldwin → Spring Valley experience the most delays.
+   ➡️ Fixing Baldwin’s process will have the highest impact on overall delay reduction.
 
 # Conclusions
 Temporal patterns show peaks on Monday and throughout March.
